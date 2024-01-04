@@ -1,2 +1,4 @@
 # szsctt.github.io
-A page collecting some of my projects
+
+
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
